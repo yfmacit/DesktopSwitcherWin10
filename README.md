@@ -1,6 +1,6 @@
 # DesktopSwitcherWin10
 Windows 10'daki çoklu masaüstleri arasındaki geçişler için AutoHotKey kodları ile hazırlanmıştır.
-http://www.autohotkey.com/ bu adresten indirebilirsiniz.
+AutoHotKey programını buradan http://www.autohotkey.com/ indirebilirsiniz.
 
 Kısayollar;
 * Sol Masaüstü    : Win + Fare Tekerleği(Yukarı) yada Win + Ctrl
